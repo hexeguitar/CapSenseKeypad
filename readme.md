@@ -27,6 +27,7 @@ Connections:
  - HT -> P1[7]
  - P3[0] RX <- PSoC5LP P12[7] TX
  - P3[1] TX -> PSoC5LP P12[6] RX
+
 Video:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=4fJzSCEbiiY
 " target="_blank"><img src="http://img.youtube.com/vi/4fJzSCEbiiY/0.jpg" 
