@@ -35,11 +35,14 @@ Video:
 alt="Keypad in action - YT video" width="240" height="180" border="10" /></a>
  
 ----------
-(c) 06.2016 by Piotr Zapart 
+(c) 06.2016 by Piotr Zapart
+
 www.hexeguitar.com
 
 License:
+
 Creative Commons - Attribution - ShareAlike 3.0 
+
 [http://creativecommons.org/licenses/by-sa/3.0/](http://creativecommons.org/licenses/by-sa/3.0/)
 
 
