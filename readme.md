@@ -18,7 +18,7 @@ PCB material thickness: **1mm**
 **Example project**
 uses PSoC4 Pioneer board and is created with PSoC Creator 3.3.
 ![PSoC Creator project](https://raw.githubusercontent.com/hexeguitar/CapSenseKeypad/master/ExampleProject_PSoC4/CapSenseKeypad_PSoCcreator.png)
-The MCU waits for the keypad interrupt event, reads out the button status registers and uses them to control and navigate within a typical V100 terminal (i.e. PuTTY). 
+MCU waits for the keypad interrupt event, reads out the button status registers and uses them to control and navigate within a typical V100 terminal (i.e. PuTTY). 
 
 Connections:
 
@@ -27,7 +27,7 @@ Connections:
  - HT -> P1[7]
  - P3[0] RX <- PSoC5LP P12[7] TX
  - P3[1] TX -> PSoC5LP P12[6] RX
-
+Video:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=4fJzSCEbiiY
 " target="_blank"><img src="http://img.youtube.com/vi/4fJzSCEbiiY/0.jpg" 
 alt="Keypad in action - YT video" width="240" height="180" border="10" /></a>
