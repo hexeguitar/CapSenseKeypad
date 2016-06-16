@@ -28,5 +28,14 @@ Connections:
  - P3[0] RX <- PSoC5LP P12[7] TX
  - P3[1] TX -> PSoC5LP P12[6] RX
 
+ 
+ 
+ ------
+(c) 06.2016 by Piotr Zapart 
+www.hexeguitar.com
+
+License:
+Creative Commons - Attribution - ShareAlike 3.0 
+[http://creativecommons.org/licenses/by-sa/3.0/](http://creativecommons.org/licenses/by-sa/3.0/)
 
 
